@@ -45,9 +45,9 @@ A simple Python-based tool to count lines of code in selected files using a grap
      python line_count.py
      ```
 
-   - **Using the batch file (`line_count.bat`):**
+   - **Using the batch file (`run.bat`):**
 
-     Double-click `line_count.bat` to open the GUI. This script runs the `line_count.py` Python script (Give permission if needed).
+     Double-click `run.bat` to open the GUI. This script runs the `line_count.py` Python script (Give permission if needed).
 
 2. **Select Files**: After launching the tool, click "Browse" to select the files you want to analyze.
 
