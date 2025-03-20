@@ -62,9 +62,5 @@ A simple Python-based tool to count lines of code in selected files using a grap
 
 ![Line Calculator Demo](Demo.gif)
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### Author
 Developed by **Tanzim**. Feel free to connect!
