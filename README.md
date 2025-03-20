@@ -22,11 +22,8 @@ A simple Python-based tool to count lines of code in selected files using a grap
    ```bash
    git clone https://github.com/tanzimenvst/code_line_count.git
    ```
-2. **Navigate to the project folder:**
-   ```bash
-   cd code_line_count
-   ```
-3. **Ensure Python is installed**: This tool requires Python 3.x. If you don't have Python installed, download it from [python.org](https://www.python.org/downloads/).
+
+2. **Ensure Python is installed**: This tool requires Python 3.x. If you don't have Python installed, download it from [python.org](https://www.python.org/downloads/).
 
    > **Note**: Tkinter should already be included with Python by default. If not, refer to the [Tkinter installation guide](https://tkdocs.com/tutorial/install.html).
 
@@ -36,6 +33,12 @@ A simple Python-based tool to count lines of code in selected files using a grap
 
    - **Directly from Python:**
 
+     Navigate to the project folder:
+     
+     ```bash
+     cd code_line_count
+     ```
+   
      Run the script from the command line:
 
      ```bash
