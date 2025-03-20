@@ -58,7 +58,7 @@ A simple Python-based tool to count lines of code in selected files using a grap
 
 4. **View Results**: Click "Calculate Lines" to get the results in a pop-up message box.
 
-### Demo
+### Demo Preview
 
 ![Line Calculator Demo](Demo.gif)
 
