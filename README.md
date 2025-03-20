@@ -36,7 +36,7 @@ A simple Python-based tool to count lines of code in selected files using a grap
      Navigate to the project folder:
      
      ```bash
-     cd code_line_count
+     cd code_line_count/line_count
      ```
    
      Run the script from the command line:
